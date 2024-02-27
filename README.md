@@ -1,7 +1,14 @@
-# Welcome to streamlit
-
-This is the app you get when you run `streamlit hello`, extracted as its own app.
-
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+#oop-project
+#application title
+Profanity Dectiona
+#author: 
+id: 65114540774
+name: ชัยวัฒน์ โหมดม่วง
+#technology: 
+[streamlit]
+#Webside:
+เป็นเว็บเกี่ยวกับการตรวจสอบคำสุภาพหรือไม่สุภาพ
+#presentation:
+https://test-ili2pid676.streamlit.app
+#video:
+https://drive.google.com/file/d/13uLXhEfhRx39wm9H7ROLE5jzxuftARx3/view?usp=sharing
