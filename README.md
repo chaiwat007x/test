@@ -11,7 +11,7 @@ Profanity Dectiona
 เป็นเว็บเกี่ยวกับการตรวจสอบคำสุภาพหรือไม่สุภาพ
 
 ## presentation: 
-https://test-ili2pid676.streamlit.app
+https://www.canva.com/design/DAF_wc-Ggxs/ByKnaySvGxDQE-MAxfMydA/edit?utm_content=DAF_wc-Ggxs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## video: 
 https://drive.google.com/file/d/13uLXhEfhRx39wm9H7ROLE5jzxuftARx3/view?usp=sharing
  
